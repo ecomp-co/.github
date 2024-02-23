@@ -1,6 +1,6 @@
 <h1 align="center">Hey, nós somos a Ecomp 👋</h1>
 
-![Logo da Ecomp na frente de plantas](../assets/banner.png)
+![Logo da Ecomp na frente de plantas](https://github.com/ecomp-co/.github/blob/main/assets/banner.png)
 
 > Empresa Júnior de Computação da Universidade Federal do Paraná
 
